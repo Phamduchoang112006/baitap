@@ -1,0 +1,61 @@
+
+.B23 p {
+  color: blue;
+}
+.B23 p.tieude {
+  color: blueviolet;
+  font-weight: bold;
+  font-size: 70px;
+}
+.B23 .bb {
+  color: red;
+  font-weight: bold;
+  font-size: 20px;
+}
+.B33 {
+display: flex;
+  gap: 20px;
+  margin: 20px 0;
+}
+.box {
+  background: lightgray;
+  text-align: center;
+  padding: 10px;
+}
+.px {
+  width: 100px;
+}
+.percent {
+  width: 50%;
+}
+.em {
+  width: 10em;
+}
+
+.color-name {
+  color: red;
+}
+.color-hex {
+  color: #00ff00;
+}
+.color-rgb {
+  color: rgb(0, 0, 255);
+}
+.color-rgba {
+  color: rgba(0, 0, 0, 0.5);
+}
+
+.B44 {
+  background-color: yellow;
+  padding: 20px;
+  margin: 10px 0;
+}
+
+
+.B55 {
+  background-image: url(/baitap.css/ảnh\ đầu.jpg);
+  background-size: cover;
+  background-repeat: no-repeat;
+  padding: 40px;
+  color: white;
+}
